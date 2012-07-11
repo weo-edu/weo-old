@@ -16,3 +16,6 @@
 [submodule "apps/purl-test"]
 	path = apps/purl-test
 	url = git@github.com:weo-edu/purl-test.git
+[submodule "meteor"]
+	path = meteor
+	url = git@github.com:weo-edu/meteor.git
