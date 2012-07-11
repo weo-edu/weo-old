@@ -1,0 +1,18 @@
+[submodule "meteor-packages"]
+	path = meteor-packages
+	url = git@github.com:weo-edu/meteor-packages.git
+[submodule "apps/decks"]
+	path = apps/decks
+	url = git@github.com:weo-edu/decks.git
+[submodule "apps/common"]
+	path = apps/common
+	url = git@github.com:weo-edu/common.git
+[submodule "apps/dock"]
+	path = apps/dock
+	url = git@github.com:weo-edu/dock.git
+[submodule "apps/root"]
+	path = apps/root
+	url = git@github.com:weo-edu/root.git
+[submodule "apps/purl-test"]
+	path = apps/purl-test
+	url = git@github.com:weo-edu/purl-test.git
