@@ -19,3 +19,6 @@
 [submodule "meteor"]
 	path = meteor
 	url = git@github.com:weo-edu/meteor.git
+[submodule "apps/elog"]
+	path = apps/elog
+	url = git@github.com:weo-edu/elog.git
