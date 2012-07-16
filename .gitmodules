@@ -22,3 +22,6 @@
 [submodule "apps/users"]
 	path = apps/users
 	url = git@github.com:users
+[submodule "apps/elog"]
+	path = apps/elog
+	url = git@github.com:weo-edu/elog.git
