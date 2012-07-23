@@ -21,7 +21,10 @@
 	url = git@github.com:weo-edu/meteor.git
 [submodule "apps/users"]
 	path = apps/users
-	url = git@github.com:users
+	url = git@github.com:weo-edu/users.git
 [submodule "apps/elog"]
 	path = apps/elog
 	url = git@github.com:weo-edu/elog.git
+[submodule "apps/profile"]
+	path = apps/profile
+	url = git@github.com:weo-edu/profile.git
