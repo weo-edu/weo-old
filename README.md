@@ -1,6 +1,6 @@
--[Event](#event)
--[Problem Set](#problem_set)
--[Problem](#problem)
+- [Event](#event)
+- [Problem Set](#problem_set)
+- [Problem](#problem)
 
 <a name="event"/>
 ## Event
