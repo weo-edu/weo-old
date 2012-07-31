@@ -59,9 +59,30 @@ List of objects action can act on.
 
 
 
-## Decks
+## Problem Set
 
-Composed of links to cards. Links can be aliased.
+__problems__
+A set of links to problems. Links can be aliased.
+
+__title__
+
+__tags__
+
+__description__
+
+__render__
+
+  *image
+
+  *color_scheme
+
+  	*primary_color
+
+  	*secondary_color
+
+
+## Problem
+
 
 
 
