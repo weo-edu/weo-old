@@ -49,7 +49,7 @@ __image__
 Image for action.
 
 __template__ 
-Handlebars template for rendering event in event.
+Handlebars template for rendering event in feed.
 
 __adverbs__ (validator)
 List of allowed adverbs.
