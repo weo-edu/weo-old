@@ -4,24 +4,65 @@ Events are composed of user, action and object.  The user is the subject, the ac
 
 ### Time
 
-*time*
+__time__
 Server side timestamp.
 
-### Action
+### Action 
 
-*name*
+__name__
 Action type.
 
-*adverbs*
-Adverbs describing action.
+__adverbs__
+Adverbs describe action.
+
+__start_time__
+Time when action begins.
+
+__end_time__
+Time when action ended.
+
+
 
 ### Object
 
 __type__
+Object type.
 
-*title*
+__title__
+Title.
 
-*url*
+__url__
+Url to object.
+
+__tags__
+Meta data.
+
+
+
+### Action Types
+
+Action types are registered
+
+__name__
+Action type.
+
+__image__
+Image for action.
+
+__template__ 
+Handlebars template for rendering event in event.
+
+__adverbs__ (validator)
+List of allowed adverbs.
+
+__objects__ (validator)
+List of objects action can act on.
+
+
+
+## Decks
+
+Composed of links to cards. Links can be aliased.
 
 
 
