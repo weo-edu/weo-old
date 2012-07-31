@@ -4,11 +4,11 @@ Events are composed of user, action and object.  The user is the subject, the ac
 
 ### Time
 
-* Server side timestamp. 
+(*) Server side timestamp. 
 
 ### Action 
 
-__name__ *
+__name__ (*)
 Action type.
 
 __adverbs__
@@ -24,7 +24,7 @@ Time when action ended.
 
 ### Object
 
-__type__ *
+__type__ (*)
 Object type.
 
 __title__
@@ -42,7 +42,7 @@ Meta data.
 
 Action types are registered via registerAction in root app.
 
-__name__ *
+__name__ (*)
 Action type. 
 
 __image__
