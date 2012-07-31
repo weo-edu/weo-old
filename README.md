@@ -41,7 +41,7 @@ Meta data.
 
 ### Action Types
 
-Action types are registered
+Action types are registered via registerAction in root app.
 
 __name__
 Action type.
