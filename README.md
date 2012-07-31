@@ -61,24 +61,57 @@ List of objects action can act on.
 
 ## Problem Set
 
-__problems__
+__problems__(*8)
 A set of links to problems. Links can be aliased.
 
-__title__
+__title__(*)
 
 __tags__
 
 __description__
 
-__render__
+__grade_prior__
+Problem set creator given grade.
+
+__grade__
+Our calculated grade.
+
+__render__(*)
 
   - image
   - color_scheme
-  	- primary_color
-  	- secondary_color
+  	- primary
+  	- secondary
 
 
 ## Problem
+
+__title__
+
+__image__(*)
+
+__tags__
+
+__template__(*)
+Card handlebars template with variables.
+
+__rules__
+Template variable rules.
+
+__solution__(*)
+Solution defined by variables.
+
+___grade_prior__
+Problem creator given grade.
+
+__stats__
+Bins K-12. Success count and total count in each bin.
+
+
+
+
+
+
 
 
 
