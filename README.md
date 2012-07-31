@@ -101,7 +101,7 @@ Template variable rules.
 __solution__(*)
 Solution defined by variables.
 
-___grade_prior__
+__grade_prior__
 Problem creator given grade.
 
 __stats__
