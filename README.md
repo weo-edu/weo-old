@@ -136,6 +136,8 @@ Points split by fraction of progress through school year
 Total number of correct answers
 - __total_attempts__
 Total number of attempts
+- __total_time__
+Total amount of time spent (seconds)
 
 <a name="user_problem_stats" />
 ## User-Problem Stats
