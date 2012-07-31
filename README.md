@@ -72,13 +72,13 @@ __description__
 
 __render__
 
-  *image
+  - image
 
-  *color_scheme
+  - color_scheme
 
-  	*primary_color
+  	- primary_color
 
-  	*secondary_color
+  	- secondary_color
 
 
 ## Problem
