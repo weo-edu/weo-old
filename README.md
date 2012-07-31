@@ -1,6 +1,8 @@
 - [Event](#event)
 - [Problem Set](#problem_set)
 - [Problem](#problem)
+- [Problem Stats](#problem_stats)
+- [User-Problem Stats](#user_problem_stats)
 
 <a name="event"/>
 ## Event
@@ -24,6 +26,9 @@ Time when action begins.
 
 __end_time__
 Time when action ended.
+
+__context__
+Defaults to the url where the action is created.
 
 
 
@@ -112,12 +117,35 @@ Problem creator given grade.
 __stats__
 Bins K-12. Success count and total count in each bin.
 
+<a name="problem_stats" />
+## Problem Stats
 
+__total_correct__
+Total number of correct answers (from all groups)
 
+__total_attempts__
+Total number of attempts (from all groups)
 
+__total_time__
+Total time spent on this problem (seconds)
 
+__bins[K-12]__
+Points split by fraction of progress through school year
+	- __total_correct__
+	Total number of correct answers
+	- __total_attempts__
+	Total number of attempts
 
+<a name="user_problem_stats" />
+## User-Problem Stats
 
+__total_time__
+Sum of card durations.
 
+__sucessess__
+Number of successes.
+
+__attempts__
+Number of attempts.
 
 
