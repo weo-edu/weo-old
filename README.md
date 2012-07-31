@@ -17,7 +17,7 @@ Adverbs describing action.
 
 ### Object
 
-*type*
+__type__
 
 *title*
 
