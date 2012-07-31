@@ -73,11 +73,8 @@ __description__
 __render__
 
   - image
-
   - color_scheme
-
   	- primary_color
-
   	- secondary_color
 
 
