@@ -131,10 +131,11 @@ Total time spent on this problem (seconds)
 
 __bins[K-12]__
 Points split by fraction of progress through school year
-	- __total_correct__
-	Total number of correct answers
-	- __total_attempts__
-	Total number of attempts
+
+- __total_correct__
+Total number of correct answers
+- __total_attempts__
+Total number of attempts
 
 <a name="user_problem_stats" />
 ## User-Problem Stats
