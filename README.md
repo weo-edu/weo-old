@@ -117,6 +117,9 @@ Problem creator given grade.
 __stats__
 Bins K-12. Success count and total count in each bin.
 
+__hint_links__
+Links where student can find help.
+
 <a name="problem_stats" />
 ## Problem Stats
 
