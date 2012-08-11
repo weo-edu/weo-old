@@ -13,6 +13,10 @@ Events are composed of user, action and object.  The user is the subject, the ac
 
 (*) Server side timestamp. 
 
+### Persist
+
+If true add to the main log and the feeds. (default true)
+
 ### Action 
 
 __name__ (*)
