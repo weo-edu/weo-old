@@ -13,18 +13,9 @@
 [submodule "apps/root"]
 	path = apps/root
 	url = git@github.com:weo-edu/root.git
-[submodule "apps/purl-test"]
-	path = apps/purl-test
-	url = git@github.com:weo-edu/purl-test.git
 [submodule "meteor"]
 	path = meteor
 	url = git@github.com:weo-edu/meteor.git
-[submodule "apps/users"]
-	path = apps/users
-	url = git@github.com:weo-edu/users.git
-[submodule "apps/elog"]
-	path = apps/elog
-	url = git@github.com:weo-edu/elog.git
 [submodule "apps/profile"]
 	path = apps/profile
 	url = git@github.com:weo-edu/profile.git
